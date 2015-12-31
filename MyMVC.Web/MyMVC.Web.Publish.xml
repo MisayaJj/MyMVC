@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\MyConfiguration\zl6216\Desktop\新建文件夹" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/MyMVC.Comm.dll" publishTime="09/24/2015 16:56:23" />
+    <file relUrl="bin/MyMVC.Struts.dll" publishTime="09/24/2015 17:01:47" />
+    <file relUrl="bin/MyMVC.Controller.pdb" publishTime="09/24/2015 17:45:13" />
+    <file relUrl="bin/MyMVC.Web.dll" publishTime="09/24/2015 18:24:02" />
+    <file relUrl="bin/RazorEngine.dll" publishTime="01/22/2011 13:07:52" />
+    <file relUrl="bin/MyMVC.Struts.pdb" publishTime="09/24/2015 17:01:47" />
+    <file relUrl="bin/MyMVC.Model.dll" publishTime="09/24/2015 17:31:08" />
+    <file relUrl="bin/MyMVC.Controller.dll" publishTime="09/24/2015 17:45:13" />
+    <file relUrl="bin/MyMVC.Comm.pdb" publishTime="09/24/2015 16:56:23" />
+    <file relUrl="error/404.html" publishTime="09/24/2015 17:04:54" />
+    <file relUrl="bin/MyMVC.Model.pdb" publishTime="09/24/2015 17:31:08" />
+    <file relUrl="view/home.cshtml" publishTime="09/24/2015 18:09:40" />
+    <file relUrl="bin/MyMVC.Web.pdb" publishTime="09/24/2015 18:24:02" />
+    <file relUrl="Web.config" publishTime="09/24/2015 18:24:02" />
+    <file relUrl="default.aspx" publishTime="09/24/2015 18:14:05" />
+  </publishProfile>
+</publishData>

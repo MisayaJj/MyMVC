@@ -1,0 +1,23 @@
+﻿<html>
+<head>
+    @if (DateTime.Now.Hour == 23)
+    {
+        <title>你好，现在是午夜</title>
+    }
+    else
+    {
+        <title>现在时间是:@DateTime.Now.ToString()</title>
+    }
+</head>
+<body>
+
+    @Model.Para
+    <ul>
+        @* 看看foreach语句怎么玩 *@
+        @foreach (var item in @Model.StudentList)
+        {
+            <li>@item.Name , @item.Age</li>
+        }
+    </ul>
+</body>
+</html>
